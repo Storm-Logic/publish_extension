@@ -1,0 +1,1733 @@
+{
+    "malicious": [
+		"holiday-themes.theme-coca-cola-christmas",
+		"lohsebhipolg2s.theme-aurora-borealis",
+		"solidity-syntax.deep-focus",
+		"cosmic-themes.theme-cosmic-nebula",
+		"juanfranblanco.solidity-vscode",
+		"Nomic-ETH.hardhat-solidity",
+		"alejandroaranda.solidity-langsupport",
+		"alejandroaranda.solidity-languini",
+		"tutatut.tutatut-auto-click",
+		"celsoaf.brightscript",
+		"jkiviluoto.tws",
+		"arikfr.paraglide-vscode",
+		"ghaschel.vscode-angular-html",
+		"stormier.vue-dsfr-snippets",
+		"emilerolley.publicodes-language-server",
+		"luongnd.edge",
+		"edenlabio.fhir-profiler-tool",
+		"hanifmifta.adocs",
+		"akmittal.hugofy",
+		"gematikde.codfsh",
+		"mitre-health.vscode-language-fsh",
+		"web3devtoolsx.solidity-pro",
+		"helper-beeps.solidity-pro",
+		"angelo-breuer.license-header-manager",
+		"jakeboone02.cypher-query-language",
+		"madhavd1.javadoc-tools",
+		"miclo.sort-typescript-imports",
+		"yardensachs.copy-python-path",
+		"qiu.llvm-ir-language-support",
+		"qiu.llvm-ir-language-support",
+		"qiu.llvm-ir-language-support",
+		"slb235.vscode-coffeelint",
+		"openeuphoria.vscode-euphoria",
+		"doi.fileheadercomment",
+		"amd.gaia-vscode",
+		"taskfile.vscode-task",
+		"move.move-analyzer",
+		"jcamp.dotnet-test-provider-view",
+		"groksrc.ruby",
+		"mitsuhiko.insta",
+		"bradymholt.pgformatter",
+		"obyte.oscript-vscode-plugin",
+		"maptz.regionfolder",
+		"better-ts-errors.better-ts-errors",
+		"configcat.configcat-feature-flags",
+		"ssagov.uef-snippets",
+		"vs-publisher-988541.apexsql-power-tools",
+		"marketplace.visualstudio",
+		"tamuratak.vscode-lezer",
+		"artsy.artsy-studio-extension-pack",
+		"casualjim.gotemplate",
+		"superposition.supertoml-analyzer",
+		"uavcan.dsdl",
+		"MengsiCode.vscode-django-boilerplate",
+		"SBSnippets.pytorch-snippets",
+		"oss.sfmc-devtools-vscode",
+		"iotaledger.iota-move",
+		"ducfilan.pug-formatter",
+		"kevinglasson.cornflakes-linter",
+		"swyphcosmo.spellchecker",
+		"dmeenhuis.es7-react-js-snippets-with-semicolons",
+		"Vinrobot.vhdl-formatter",
+		"snlbaral.express-mongo-snippets",
+		"reignofwebber.c-cpp-definition-generator",
+		"Flutterando.flutter-mobx",
+		"Glavin001.unibeautify-vscode",
+		"GoBystrokReactJS.gobystrok",
+		"HyperledgerComposer.composer-support-client",
+		"Insigne.powershell",
+		"Jeremy38100.init-node-script",
+		"Levertion.mcjson",
+		"MarinhoBrandao.Angular2Tests",
+		"bdaeumer.vscode-eslint",
+		"chavyleung.vscode-pnpm-verlens",
+		"chris-hock.pioasm",
+		"davidpallinder.rails-test-runner",
+		"jt.jakt",
+		"mkdirdocs.mkd-docs",
+		"nihilus118.perl-debugger",
+		"pwrs.cem-language-server-vscode",
+		"ydaveluy.xsmp-modeler",
+		"ydaveluy.xsmp-tas-mdk",
+		"helixquar.asciidecorator",
+		"kaellarkin.hugo-shortcode-syntax",
+		"microsoft-dciborow.align-bicep",
+		"wghats.vscode-nxunit-test-adapter",
+		"wordpresstools.wordpress",
+		"xnerd.ampscript-language",
+		"365businessdevelopment.bdev-al-xml-doc",
+		"AcademiaDosDevs.javafx",
+		"Alex-Chen.gitee-code-settings-sync",
+		"AndenetAlexander.vim-cheatsheet",
+		"AndreyVolosovich.monokai-st3",
+		"AshhadDevLab.customtkinter-snippets",
+		"AzureADB2CTools.aadb2c",
+		"AzurePolicy.azurepolicyextension",
+		"BDZNH.c-cpp-compile-run-windows",
+		"BartmanAbyss.amiga-debug",
+		"BretDoyle.javascript-extensions-pack---js-essentials",
+		"Mukundan.python-docs",
+		"Vinrobot.vhdl-formatter",
+		"bradymholt.pgformatter",
+		"doi.fileheadercomment",
+		"drewbourne.vscode-remark-lint",
+		"garaemon.vscode-emacs-tab",
+		"move.move-analyzer",
+		"npxms.hide-gitignored",
+		"reignofwebber.c-cpp-definition-generator",
+		"snlbaral.express-mongo-snippets",
+		"tamuratak.vscode-lezer",
+		"tgreen7.vs-code-node-require",
+		"uavcan.dsdl",
+		"AyushSinghal.Code-Mate",
+		"ajhyndman.jslint",
+		"carbonid1.emmet-jss",
+		"tchojnacki.cpp-compile", 
+		"killalau.vscode-liquid-snippets",		
+		"trufflesuite-csi.truffle-vscode",
+		"tungvn.wordpress-snippet",
+		"orsenkucher.vscode-graphql",		
+		"micnil.vscode-checkpoints",
+		"pieterjongsma.swift-playgrounds",
+		"qezhu.gitlink",
+		"developersoapbox.vscode-springboot-snippets",
+		"pomber.git-file-history",
+		"jasonn-porch.gitlab-mr",
+		"intel-corporation.oneapi-environment-configurator",
+		"intel-corporation.oneapi-samples",
+		"karigari.chat",
+		"mindaro.mindaro",
+		"shenjiaolong.vue-helper",
+		"markis.code-coverage",
+		"ms-vsonline.vsonline",
+		"qinjia.view-in-browser",
+		"colourafredi.vscode-deepseek",
+		"gemini.gemini-vsx",
+		"cloudflare.cloudflare-workers-bindings-extension",
+		"phplasma.csv-to-table",
+		"AnasFiguigui.pokemon-pets",
+		"codebuddyai.codebuddy-ai",
+		"divyanshuagrawal.competitive-programming-helper",
+    	"fabric.vscode-fabric",
+		"shubhamprajapati1202.office-editor",
+		"AtomMaterial.a-file-icon-vscode",
+		"epolicardo.sql-server-profiler-tool",
+		"sarthikbhat.json-server",
+		"Rubymaniac.vscode-paste-and-indent",
+		"matthiesen-technology.yaml-with-script",
+		"yinfei.luahelper",
+		"afractal.node-essentials",
+		"sakamoto66.vscode-playwright-test-runner",
+		"Lumidew.claude-color-theme",
+		"Development42.csv-excel-viewer",
+		"Dadroit.dadroit-json-generator",
+		"ShahilKumar.docxreader",
+		"kangping.protobuf",
+		"hss.web-viewer",
+		"hostinger-official.hostinger-connector",
+		"Doubao.doubao-app-share-vscode-plugin",
+		"mattn.Lisp",
+		"GingerTurtle.html-preview-pro",
+		"bokuweb.vscode-ripgrep",
+		"acebunny00.gemini-cli-launcher",
+		"vbrocket.cursor-ai",
+		"sfdc-eng.bazel-vscode",
+		"mjethwa-streamlit.streamlit-preview",
+		"tom-latham.markdown-pdf-plus",
+		"khaled.vscode-openrouter-extension",
+		"willasm.obsidian-md-vsc",
+		"warm3snow.vscode-ollama",
+		"Corotata.pptx-preview",
+		"seepine.md-editor",
+		"SyncfusionInc.Document-Viewer-VSCode-Extensions",
+		"Kingleo.kimi-vscode",
+		"bioinfo.markitdown-vscode",
+		"huanent.node-runner",
+		"TomRileyTech.open-excel",
+		"justuskarlsson.plan-uml",
+		"juajnnlb.claude-commit",
+		"Zerobig.vscode-1c-metadata-viewer",
+		"juanlb.claude-commit",
+		"ClayMoonPlank.pyindent-helper",
+		"ellyliest0972927.vscode-versionlens",
+		"ExarGD.vsblack",
+		"noellee-doc.flint-debug",
+		"ci-ai-box.hll-ai-box",
+		"test-ui-harry.preview-beta",
+		"clotomoto.code-way-editor",
+		"sweaty-tstudio.quarto-report-Studio",
+		"solidityweb3.s9sdsdidol",
+		"j4hersfsedf.kt5jr6teg",
+		"asdasd.test-ext",
+		"SingularityInc.claude-notifier",
+		"pdragon.azure-rbs-workbench",
+		"thykka.superpowers",
+		"DenizhanDaklr.copilot-vscode-deepseek",
+		"ishantgupta777.pipfi-code-share",
+		"arieldev.sql-visual-debugger",
+		"vegamo.deepcode-vscode",
+		"ruslanmv.gitpilot-vscode",
+		"electronlsr.open-remote-ssh",
+		"MCPincer.mcpincer",
+		"sohibe.java-generate-setters-getters",
+		"george-alisson.html-preview-vscode",
+		"whatwedo.twig",
+		"kyleobr.video",
+		"jarekw.Rich-Note",
+		"rbbit.typescript-hero",
+		"eriklynd.json-tools",
+		"frhtylcn.pythonsnippets",
+		"etmoffat.pip-packages",
+		"groltenmeer.shiftspace-auto-hub",
+		"xinghuo.xinghuo-windsurf",
+		"xinghuo.anti-remote-pro",
+		"gh555.html-qqq",
+		"gh555.Roam",					
+		"gh555.Image-Preview",			
+		"gh555.video-qqq",				
+		"gh555.Navigator",			
+		"gh555.Weave",
+		"gh555.Browser",			
+		"gh555.notebook",			
+		"gh555.WYSIWYG",
+		"gh555.Dream-Radio",			
+		"gh555.Paste-everything",		
+		"gh555.Export-Doc",			
+		"gh555.Paste-Image",			
+		"gh555.Export-Docx",			
+		"gh555.presentation-resources",	
+		"gh555.Export-Zip",			
+		"gh555.qqq",
+		"gh555.File-Explorer",			
+		"gh555.Rich-Note",
+		"bersenev.mc-super-pilot",
+		"bruskovin.oxc-rich-tool",
+		"buryagin.openapi-easy-studio",
+		"dremikov.purs-fast-hub",
+		"drobnyak.angular-auto-helper",
+		"galushko.vsclassic-auto-pilot",
+		"gusarev.mermaid-super-studio",
+		"khromok.react-deep-tool",
+		"lavrentev.project-live-studio",
+		"lesnitsky.tikbook-easy-lens",
+		"mashulin.vue-easy-studio",
+		"mitrokhin.vsc-easy-studio",
+		"mlechevik.nunjucks-rich-pilot",
+		"mokridin.material-pro-suite",
+		"ovchinin.markdown-live-craft",
+		"peschanov.dbcode-smart-suite",
+		"platarov.podmanager-pro-craft",
+		"polikash.pretty-deep-kit",
+		"porzhnev.swiftformat-deep-hub",
+		"pruzenko.superdesign-auto-craft",
+		"razinov.spell-rich-hub",
+		"skorzenko.office-deep-studio",
+		"smolyak.slog-smart-studio",
+		"svetelin.industrious-live-hub",
+		"tarasenya.todo-rich-hub",
+		"zubarets.latex-quick-suite",
+		"yelzunik.sqltools-smart-forge",
+		"starodub.kodio-smart-forge",
+		"ozeryan.vlang-super-pilot",
+		"martyev.turbo-deep-tool",
+		"kalinka.shellcheck-auto-craft",
+		"balmasov.markdown-auto-tool",
+		"shtangin.kotlin-fast-helper",
+		"rusakov.indent-quick-pilot",
+		"matveev.gitblame-pro-helper",
+		"nazarov.errorlens-fast-suite",
+		"shulgin.deno-rich-lens",
+		"juannegro.solidity", 
+		"juunfranbIanco.solidity",
+		"gvozdarin.kiro-deep-suite",
+		"juanbanco-.solidity",
+		"hard-hat.hardhat-solidity",
+		"yermakov.pundit-auto-hub",
+		"codevunm-tm.cluster-kuberntes-Manager",
+		"cubedivervolt.html-code-validate",
+		"veltarik.duplicate-fast-helper",
+		"tralarin.firefox-rich-lens",
+		"dranaven.flask-live-craft",
+		"sremovik.dendron-deep-hub",
+		"brixovik.es7-quick-hub",
+		"krosaven.dot-live-forge",
+		"drovenko.data-live-suite",
+		"karnenko.cursorless-pro-pilot",
+		"peldravix.rpgiv2free-live-tool",
+		"forkelbat.supersigil-rich-hub",
+		"fyltroven.gitchat-fast-tool",
+		"syndakove.todo4vcode-quick-suite",
+		"vendrakos.rumdl-pro-kit",
+		"stadiumgripier.vscode-onedark-theme",
+		"wildlightregain.oxc-lint-format",
+		"haelthorn.fractal-fast-studio",
+		"gastholve.shell-pro-kit",
+		"tossbers.browser-open-tool",
+		"pranlokev.topmodel-fast-suite",
+		"weldforick.brightscript-pro-kit",
+		"stelbavik.hledger-fast-tool",
+		"brixmundo.eca-easy-tool",
+		"shinypy.pycode-formatter",
+		"carveltstone.chatbuddy-auto-suite",
+		"thunderprosecutor.autopep8-formatter",
+		"spikearshock.csv-rainbow",
+		"countrepresent49.code-image-preview",
+		"lairinspectortrek70.todo-highlighter",
+		"superneentrance.peacock-colors",
+		"epichipporedeem.prettier-eslint-formatter",
+		"archchainturn.twinny-ai-assist",
+		"spacesalamanderhook.italian-language-pack",
+		"closedtierenchant.vscode-awesome-icons",
+		"emotionkyoseparate.turkish-language-pack",
+		"sremuven.beautify-super-lens",
+		"goltikov.auto-rich-forge",
+		"karnikov.better-rich-studio",
+		"trenarin.autodocstring-auto-studio",
+		"meldarin.biome-live-tool",
+		"gronarin.auto-super-kit",
+		"keltarin.android-deep-hub",
+		"tralaven.c-easy-tool",
+		"meltovik.bookmark-rich-tool",
+		"seldovik.cmake-smart-pilot",
+		"veldekov.csv-pro-suite",
+		"brenaven.cursor-rich-helper",
+		"faldenko.explorer-auto-hub",
+		"vornovin.ionic-easy-kit",
+		"tormekov.htmlmustache-fast-craft",
+		"dalsoven.intellij-live-pilot",
+		"krosarin.npm-fast-studio",
+		"meltuven.graphql-pro-tool",
+		"veltarik.duplicate-fast-helper",
+		"tralarin.firefox-rich-lens",
+		"krosovik.laravel-quick-pilot",
+		"grisaven.markdown-live-kit",
+		"drovenko.data-live-suite",
+		"sremekov.javascriptsnippets-rich-craft",
+		"breluven.html-smart-suite",
+		"trikarin.database-super-tool",
+		"dalsovik.dbclient-quick-suite",
+		"frelovin.gitpod-deep-helper",
+		"mrekelid.manpages-fast-kit",
+		"kuldaran.search-smart-forge",
+		"prednovik.php-super-pilot",
+		"tagovich.zener-pro-craft",
+		"grozdarov.jinjahtml-easy-studio",
+		"shiverov.open-smart-suite",
+		"draconzal.phpstan-easy-hub",
+		"marabenov.graphql-super-craft",
+		"ducvps12.auto-anti-click-scroll",
+		"goltikov.auto-rich-forge",
+		"gronarin.auto-super-kit",
+		"keltarin.android-deep-hub",
+		"trenarin.autodocstring-auto-studio",
+		"kwinsolin.better-cpp-tool",
+		"sremuven.beautify-super-lens",
+		"meltovik.bookmark-rich-tool",
+		"juanblancows.solidity",
+		"juanblanco--.solidity",
+		"outsidestormcommand.monochromator-theme",
+		"Superneentrance.peacock-colors",
+		"KuaiJS.ms-vscode-plugin",
+		"juan-.solidity",
+		"lairinspectortrek70.todo-highlighter",
+		"Spikearshock.csv-rainbow",
+		"floktokbok.autoimport-smart-tool",
+		"flape-osx.align-code-format-tool",
+		"dev-tm.code-python-indent-helper",
+		"gorth-tm.your-project-manager-Organizer",
+		"Victorbetweenhose.agent-auto-accept",
+		"WinnerDomain17.version-lens-tool",
+		"aeschli.vscode-css-formatter",
+		"BracketPairColorDLW.bracket-pair-color-dlw",
+		"georgewfraser.vscode-javac",
+		"inferrinizzard.prettier-sql-vscode",
+		"jcbuisson.vue",
+		"mohd-akram.vscode-html-format",
+		"sidthesloth.html5-boilerplate",
+		"rodrigovallades.es7-react-js-snippets",
+		"dongli.python-preview",
+		"bianxianyang.htmlplay",
+		"Spikearshock.csv-rainbow",
+		"sepolia.solidity",
+		"Artifactory-Software-Studio.vscode-jrrog-extension",
+		"ethers.solidity",
+		"hardhat.solidity",
+		"krundoven.ironplc-fast-hub",
+		"juanblanoc.solidity",
+		"blanco.solidity",
+		"sv-codex.gitlens-code-history-explorer",
+		"Keyacrosslaud.auto-loop-for-antigravity",
+		"ThunderProsecutor.autopep8-formatter",
+		"bondshadowcourtyard.better-annotations",
+		"Boulderzitunnel.vscode-buddies",
+		"Pulselireckon.code-usage-stats",
+		"web3.solidity",
+		"chriswiegman.cw-markdown-word-count",
+		"SheikhoDev.random-names",
+		"meijiahao.vscode-h5-viewer",
+		"Intility.vscode-backstage",
+		"crypto.solidity",
+		"rajdeepchandra.spectrum-design-tokens-for-vscode",
+		"A8.a8-windsurf-helper",
+		"oyayak-tm.productivity-json-tool",
+		"clocktimes.codex-dart-debugger",
+		"jinliming2.vscode-go-template",
+		"openclaw-mcp.openclaw-mcp",
+		"specstudio.code-wakatime-activity-tracker",
+		"tool-studio.prettier-pro-code-format",
+		"specstudio.code-wakatime-activity-tracker",
+		"kotpot.modern-css-toolkit",
+		"dos-studio.easily-gitignore-manage-file",
+		"sol.solidity-vscode-ext",
+		"calow-dex.prisma-database-schema-tools",
+		"icepower1997.glacier-cave-theme",
+		"ovixcode.vscode-better-comments",
+		"sxatvo-tm.compile-runnner-build",
+		"catspace-studio.ng-angular-language",
+		"awwwadem.language-professional-tools",
+		"colleen72koes.console-ninja",
+		"jaunblanco.solidity-vscode-ext",
+		"juan-f-blanco.solidity-vscode-ext",
+		"juan-franblanco.solidity-etherum",
+		"juanblancosol.solidity-vscode-ext",
+		"ethereum-foundation.solidity-ether",
+		"juanfran-blanco.solidity-etheru",
+		"salom-leon69.media-preview",
+		"bazil-tmov71.css-language-features",
+		"sanchesnoe8254.jake",
+		"mariethoresen6.grunt",
+		"ippolitogallo5139.configuration-editing",
+		"darla5327.debug-auto-launch",
+		"ejensen7170.debug-auto-launch",
+		"wuckertbar8761.merge-conflict",
+		"gertrudedicki68.testing-editor-contributions",
+		"lyudmilabondar503.ocaml-platform",
+		"obolonskayaelena233.multiplayer",
+		"petreecary.windicss-intellisense",
+		"cameronreid6265.sqltools-driver-sqlite",
+		"jankedu5368.restructuredtext",
+		"hannakarlsen86.ocaml-platform",
+		"rebeca8315.cody-testing",
+		"connorreid1660.uni-highlight-vscode",
+		"mmacha1272.vscode-gutter-preview",
+		"frizzi9798.qwen-code-vscode-ide-companion",
+		"rebekagsiorowski32.auto-accept-agent",
+		"lee-bechtelar36.playwright",
+		"oda8344.tombi",
+		"marco-rizzi50.moonbit-lang",
+		"nathan6114.css-language-features",
+		"daniel604.grunt",
+		"markus-solli13.jake",
+		"johanandersson5.merge-conflict",
+		"juancarlos-prieto91.vscode-dbt-power-user",
+		"liana1036.vscode-boot-dev-pack",
+		"lennartolsson34.console-ninja",
+		"adrian3hamm.nix-ide",
+		"boleslava9770.media-preview",
+		"giuliano-caputo10.colab",
+		"adrian-sther71.vscode-openapi",
+		"mmaleek4028.configuration-editing",
+		"karleriksson55.gemini-coder",
+		"jorge-martines69.salesforcedx-vscode-lightning",
+		"mpurdy6899.oxc-vscode",
+		"andrew30runo.salesforcedx-vscode-apex",
+		"noah65dick.salesforcedx-vscode-visualforce",
+		"abbeyschroeder4951.Nix",
+		"rszulc7946.documentation-assembler",
+		"olivermartinsen10.vite",
+		"walter-daniel46.render-crlf",
+		"nazariusz-jwik0.dotnet-meteor",
+		"louise82pica.vscode-sql-lit",
+		"jtich3942.testing-editor-contributions",
+		"christophermaldonado21.simple-ruby-erb",
+		"kazinmekov95.rome",
+		"ekutch3609.move-on-aptos",
+		"celestefontana70.vscode-mocha-test-adapter",
+		"klaudinkuel81.vscode-color",
+		"ohansen8493.sasjs-for-vscode",
+		"horststehlkov24.vscode-stlite",
+		"maria-svensson57.swagger-viewer",
+		"bmiller8319.ag-auto-click-scroll",
+        "wilderdanehy.cloudformation-yaml-snippets",
+		"zolotarevaviktoriya044.output-colorizer",
+		"kravtsovae88.cody-testing",
+		"romaskevich4.veriloghdl",
+		"matushevskayao0.php-namespace-resolver",
+		"deandreavrich.kcl-language-server",
+		"elenaskorik590.snowflake-vsc",
+		"faixmercedezmcpnnt3i.laravel-extra-intellisense",
+		"seltzroxieo2t64lsk.kylin-cpp-pack",
+		"carluccimerriezyiwg9.bash-debug",
+		"firsovaoksana320.texlab",
+		"sytnike910.vscode-peacock",
+		"koshkarevay998.code-for-ibmi",
+		"chekalovaolga30.cline-nightly",
+		"goncharovatatyana828.builtin-notebook-renderers",
+		"tchebotareva613.extension-editing",
+		"enemanezhina91.kimi-code",
+		"kovtunnataliya87.text-power-tools",
+		"innadudar23.godot-tools",
+		"okishtanova034.vscode-altimate-mcp-server",
+		"irinakrupnik40.pochi",
+		"kopaevaanna739.vscode-conventional-commits",
+		"oksanakurinnaya39.sheetjs-demo",
+		"sorokinanatalya234.git-blame",
+		"alenaletuta06.vscode-test-explorer",
+		"el702791.salesforcedx-vscode-core",
+		"yanag748.calva",
+		"yetevipe056.kylin-clangd",
+		"ahoxepow64.vscode-azurefunctions",
+		"oyoqenej151.salesforcedx-vscode-apex-testing",
+		"xemekicariv881.salesforcedx-vscode-expanded",
+		"romosumo659.microsoft-authentication",
+		"qehiyesubame27.vscode-npm-dependency",
+		"cheresovasvetlana58.tldraw-vscode",
+		"walosivarom079.git-ui",
+		"aleksandrafisyurenko65.whycode",
+		"olgakotovich91.markdown-preview-github-styles",
+		"vyshinskayatatyana38.hardhat-solidity",
+		"mboncheva64.xasnippets",
+		"dubitskayaa5.vscord",
+		"egraf829.gitpod-monitor",
+		"elenamarych83.vscode-bazel",
+		"burovan514.i18n-ally",
+		"svetlanachevychelova5.devdb",
+		"tkorotchenko76.vscode-mermaid-chart",
+		"evgeniyaalekseeva988.jinja",
+		"oksanalevko882.markdown-language-features",
+		"etamohoxisay72.gulp",
+		"wakelokul066.vscode-boot-dev-pack",
+		"ykiseleva077.vscode-wakatime",
+		"yuliyakotova472.jake",
+		"gorobetselena52.grunt",
+		"savchenkoyuliya752.debug-auto-launch",
+		"nemufiwozego92.cursorless",
+		"xuxiqigomom401.vetur",
+		"brazhenkomariya320.css-language-features",
+		"vohohonozas00.roo-code-nightly",
+		"ofotolazez988.console-ninja",
+		"logacehefo39.catppuccin-vsc-icons",
+		"hiviheyodu35.bloc",
+		"akuwikam872.merge-conflict",
+		"rumatiju04.vscode-language-pack-de",
+		"sunevaelena43.nix-ide",
+		"viktoriyaadam937.vscode-openapi",
+		"yufotole71.snyk-vulnerability-scanner",
+		"vrogach954.media-preview",
+		"yuliyalolenko89.coderoad",
+		"yuliyagrisenko81.file-bunny",
+		"gerasimenkoandriana656.vscode-azureresourcegroups",
+		"edrobot46.vscode-versionlens",
+		"oliynik102.colab",
+		"markaryanevgeniya19.excalidraw-editor",
+		"sheleverelena383.vscode-graphql",
+		"alinaogolenko35.cdt-gdb-vscode",
+		"semenovichyuliya195.vscode-neovim",
+		"davtyank791.git-graph",
+		"otitenko854.pdf",
+		"jewellmccullin2327975.isort",
+		"u7ctm4z2xn.malloy-vscode",
+		"samaraxlauridsenrqy3.tongyi-lingma",
+		"yuliyabogomolova342.markdown-mermaid",
+		"elizavetayakovleva57.salesforcedx-vscode-visualforce",
+		"olgamelnichuk813.astro-vscode",
+		"dittacathernbe.vscode-stylelint",
+		"hodellkendaf.coding-copilot",
+		"nogiveputu258.configuration-editing",
+		"raspopinad31.gemini-coder",
+		"chinellbrinton.coderabbit-vscode",
+		"ikhalyavka18.cmake",
+		"vtkachenko437.salesforcedx-vscode-lightning",
+		"smithymardis.vscode-deno",
+		"rikkestatham8960153.vscode-duplicate",
+		"keeshaarnhold5nzbf.salesforcedx-vscode-apex",
+		"albertinejunghans31jtv.oxc-vscode",
+		"francoisebunk2cg85m.ocaml-platform",
+		"larisamironenko787.metals",
+		"irinadatsyuk07.superblocks",
+		"khlevnyukn54.kotlin",
+		"tatyanakrasnokutskaya913.vscode-postfix-ts",
+		"karinadubovichenko53.kylin-cpp-pack",
+		"yistomina690.code-for-ibmi",
+		"ttnchalaya.kcl-language-server",
+		"daryashcherbatyuk42.cloudformation-yaml-snippets",
+		"olesyatulainova797.cody-testing",
+		"sadlerzakai.laravel-extra-intellisense",
+		"geleteytatyana48.sheetjs-demo",
+		"innadenisenko153.snowflake-vsc",
+		"merrylfrock3093725.veriloghdl",
+		"bystrikovao52.vscode-peacock",
+		"luzschnettler6675543.output-colorizer",
+		"alinabondarevich50.texlab",
+		"is4704153.text-power-tools",
+		"yuliyasylenko81.bash-debug",
+		"ovchinnikovairina691.cline-nightly",
+		"nataliyasuprunenko14.php-namespace-resolver",
+		"tmatsiychuk724.builtin-notebook-renderers",
+		"allagrokholskaya21.vscode-altimate-mcp-server",
+		"yuliyachaykovskaya17.kimi-code",
+		"tkhilko21.git-blame",
+		"tfostik895.pochi",
+		"krivoshey302.vscode-conventional-commits",
+		"ubiyabihowiy99.calva",
+		"utiwoziyus462.extension-editing",
+		"cathrinegomm6798038.vscode-test-explorer",
+		"lysenkotatyana525.vscode-npm-dependency",
+		"vefimenko167.salesforcedx-vscode-core",
+		"alekseenkonatalya844.whycode",
+		"igordienko495.godot-tools",
+		"cherkast9.vscode-azurefunctions",
+		"bashkatovam4.gulp",
+		"tklienko82.kylin-clangd",
+		"vasilevalyudmila252.tldraw-vscode",
+		"volodinan750.salesforcedx-vscode-apex-testing",
+		"mskubenich698.vscord",
+		"olgakuznetsova717.microsoft-authentication",
+		"khrushcheval758.hardhat-solidity",
+		"rochellshivy1357619.git-ui",
+		"shayastarita4322082.salesforcedx-vscode-expanded",
+		"ungurovayuliya53.devdb",
+		"ynikolaeva519.vscode-bazel",
+		"jasongyfbxangfd.markdown-language-features",
+		"xhriswarmack.i18n-ally",
+		"charleskoavpmjske.gitpod-monitor",
+		"anthonydlrpnlsaog.vscode-wakatime",
+		"josephfwflqsgala.markdown-preview-github-styles",
+		"ekaterinachayka34.jinja",
+		"mikhovay82.xasnippets",
+		"goncharovanatalya842.vscode-mermaid-chart",
+		"oksanapolyashchenko90.grunt",
+		"andrusenkooksana458.jake",
+		"nsinyuk51.css-language-features",
+		"idixajakah88.roo-code-nightly",
+		"valerygravitz6410310.vetur",
+		"anastasiyakomyurdzhu36.debug-auto-launch",
+		"abramovat831.merge-conflict",
+		"fitsaya902.cursorless",
+		"tatyanakravchuk15.console-ninja",
+		"glynisblaum5916422.vscode-language-pack-de",
+		"rosalynvanaprasert2852089.catppuccin-vsc-icons",
+		"angovelondaudpq6puy.nix-ide",
+		"ruschakvernellvz7gdzd.colab",
+		"landhamjennine580lavrp.file-bunny",
+		"tavissandah15vp9ok.media-preview",
+		"biscardileo3sq1uto.bloc",
+		"anastasiyao673.excalidraw-editor",
+		"ekaterinapolishchuk24.vscode-graphql",
+		"sinyushkoanna636.coderoad",
+		"melifonda7.vscode-neovim",
+		"evarejagiy510.vscode-azureresourcegroups",
+		"ibowitihugo32.snyk-vulnerability-scanner",
+		"wogopehuzis356.vscode-openapi",
+		"uniximayegu511.cdt-gdb-vscode",
+		"etuqubidij861.pdf",
+		"kotohitesu21.git-graph",
+        "norgor.capnp",
+        "slayzzzdev.dexmcp",
+        "abronan.capnproto-syntax",
+        "arcad.arcad-extension",
+        "cedar-policy.vscode-cedar",
+        "codecov.codecov",
+        "dsanders11.vscode-electron-build-tools",
+        "elemefe.vscode-element-helper",
+        "emallin.phpunit",
+        "jpogran.puppet-vscode",
+        "mame.ruby-typeprof",
+        "marshallofsound.gnls-electron",
+        "mcright.auto-save",
+        "me-dutour-mathieu.vscode-firebase",
+        "me-dutour-mathieu.vscode-github-actions",
+        "minherz.copyright-inserter",
+        "nathanridley.autotrim",
+        "run-at-scale.terraform-doc-snippets",
+        "connor4312.nodejs-testing",
+        "connor4312.esbuild-problem-matchers",
+        "croct-studio.antigravity-model-usage-dashboard",
+        "yamal-dext.wonder-workspace-icons",
+        "daeumer-web.align-format-tool",
+        "baksmink.vscode-quokka-extension",
+        "bansheejust22.retro-vhs-theme",
+        "craz2team.vscode-todo-extension",
+        "quickrunn.auto-run-command-quick",
+        "marcus-tm.ruby-Intelligence-Toolkit",
+        "codbro-dxp.explorer-xml-xquery",
+        "lauracode.wrap-selected-code",
+        "tilt-dev.tiltfile",
+        "kyntrack.log-matrix",
+        "bipro.bipro-dev",
+        "Equinusocio.vsc-material-theme",
+        "Equinusocio.vsc-material-theme-icons",
+        "498.pythonformat",
+        "prada555.Theme-Acai-ported-1.0.0",
+        "prada555.Theme-Active4D-ported-1.0.0",
+        "AllenBarry.Solid",
+        "nomiFoundation.hardhat-solidity-pack",
+        "vuejs.node-snippets",
+        "NomicFdn.hardhat-solidity",
+        "Jack-plugin.ui-test-visualizer",
+        "Ethereum.solidity-ethereum",
+        "ETHFoundry.solidityethereum",
+        "vuejs.volar",
+        "juan-blanco.solidity",
+        "Snipcola.roblox-execute",
+        "Snipcola.macsploit-execute",
+        "Rojo.rojo-roblox-vscode",
+        "ChainDevTools.solidity-pro",
+        "nomic-foundation.hardhat-solidity",
+        "nomic-fdn.hardhat-solidity",
+        "juan-blanco.solidity",
+        "magic-stack.MagicPython",
+        "EchelonStudios.solidity-language-support",
+        "JuanFBlanco.solidity-ai-ethereum",
+        "JuanFBlanc.solidity-ethereum-vsc",
+        "juan-blanco.vscode-solidity",
+        "nomic-fdn.solidity-hardhat",
+        "aptos.move-on-aptos",
+        "googlecloud-vscode.firebase-dataconnect",
+        "kilocode-ai.kilo-code",
+        "oxc-vscode.oxc",
+        "Crypto-Extensions.SnowShsoNo",
+        "Crypto-Extensions.solidity",
+        "juanblonco.solidity",
+        "solidity-syntax.solidity-lang",
+        "bcakyz.python-web-pack",
+        "soldevdesigne.pythonweb",
+        "cursorai.cursor-usage",
+        "rust-analyzerr.rust-analyzer",
+        "rust-anlyzer.rust-anlyzer",
+        "ethereum.solidity",
+        "nethereum.solidity",
+        "tailwindcss-main.tailwindcss-cursor",
+        "ab-498.cppplayground",
+        "ab-498.httpformat",
+        "m878649.piiithon-linter",
+        "juanbIanco.solidity-lang",
+        "JuanrBlanco.solidity-lang",
+        "juan-bIanco.solidity-vlang",
+        "juanbIanco.solidity-vsc",
+        "Nomic-Foundation.hardhat-vscode",
+        "fangliu.spx-template-market",
+        "yutingpeng.spx-template-market",
+        "yutingpeng-spec.intelli-build-studio",
+        "yutingpeng-spec.spx-template-market",
+        "Nomic.hardhat",
+        "eth.solidity",
+        "codevsce.lldb-vscode",
+        "ether.solidity",
+        "Prettier-vsc.vscode-prettier",
+        "klustfix.kluster-code-verify",
+        "ms-azure-devops.azure-pipelines",
+        "vs-codevims.vscode-vim",
+        "saoudrizvsce.claude-dev",
+        "saoudrizvsce.claude-devsce",
+        "vitalik.solidity",
+        "flutcode.flutter-extension",
+        "yamlcode.yaml-vscode-extension",
+        "tailwind-nuxt.tailwindcss-for-react",
+        "betterthanalltime.calva-vscode",
+        "redmat.vscode-quarkus-pro",
+        "bphpburn.icons-vscode",
+        "SolBlanco.svelte-vscode",
+        "svltsweet.Svetle-for-Cursor",
+        "clangdcode.clangd-vscode",
+        "Dart-vsc.code-dart",
+        "eamodas.shiny-vscode",
+        "ovixcodes.basedpyright-vscode",
+        "msjsdreact.react-native-vscode",
+        "Vsceue.volar-vscode",
+        "cweijamysq.sync-settings-vscode",
+        "csvmech.csv-sql-tsv-rainbow",
+        "IconKief.icon-theme-material",
+        "me80758261.piiithon-linter",
+        "lyywemhan.code-formatter-and-minifier-vscode",
+        "MahendrakarPrateek.prettyxml-pro",
+        "sqlmtxredev.quarto-pro",
+        "senseDevpro.profiler-php-pro",
+        "RooIncVeterinaryDev.roo-cline-pro",
+        "DevCatppuccinpro.catppuccin-pro-vsc",
+        "devCHOUZZ.vscode-better-align-pro",
+        "SpecStoryInc.specstory-vscode-pro",
+        "devcodaro.codaro-pro",
+        "Prisma-Inc.prisma-studio-assistance",
+        "cyrilproletuzi.angular-schematics-pro",
+        "littensydev.charmed-icons-pro",
+        "zigbook.pilot-repl",
+        "cyrilproletuzi.angular-schematics-pro",
+        "jeronimodevex.color-picker-pro",
+        "fresh-vscode-icons-package.native-icons-for-vscode",
+        "vim-editor-extension.vim-plugin-pro",
+        "klus-ter-team.vscode-klus-ter-verify-ai-pro",
+        "Benachile-studio.protobuf-pro",
+        "cline-studio.cline-agent",
+        "specs-production.specstory-vscode-professional",
+        "wif-code-aio.codaro-professional",
+        "littensy-studio.magical-icons",
+        "HCopilot.HCopilot",
+        "HelloCopilot.HelloCopilot",
+        "Puccin-development.full-access-catppuccin-pro-extension",
+        "cudra-production.vsce-prettier-pro",
+        "studio-velte-distributor.pro-svelte-extension",
+        "hello-dev-copilot.hello-dev-copilot",
+        "demach-head.ex-vscode-based-pyright",
+        "hellobike-copilot.hellobike-copilot",
+        "betterthannow-studio.kalvo-vscode",
+        "hellobike-copilot.hellobike-copilot",
+        "pretty-studio-advisor.prettyxml-formatter",
+        "solidity-syntax.deep-focus",
+        "sun-shine-studio.shiny-extension-for-vscode",
+        "sol-studio.solidity-extension",
+        "awesome-codebase.codebase-dart-pro",
+        "antigravity-user.auto-accept-cdp",
+        "dev-studio-sense.php-comp-tools-vscode",
+        "chase-studio.vscode-align-pro",
+        "red-hat-studios.yaml-professional-extension",
+        "diag-ms-studio-js.react-proffesional-native-extension",
+        "llvm-studios.clangd-vscode-extension",
+        "studio-jjalaire-team.professional-quarto-extension",
+        "tucyzirille-studio.angular-pro-tools-extension",
+        "ko-zu-gun-studio.synchronization-settings-vscode",
+        "vce-brendan-studio-eich.js-debuger-vscode",
+        "redthatteam.vscode-guarkus-professional",
+        "Angular-studio.ng-angular-extension",
+        "AhmedSleem.secure-code",
+        "oorzc.ssh-tools",
+        "oorzc.i18n-tools-plus",
+        "oorzc.mind-map",
+        "oorzc.scss-to-css-compile",
+        "cosmic-themes.sql-formatter",
+        "lavender-studio.theme-lavender-dreams",
+        "densy-little-studio.wonder-for-vscode-icons",
+        "oppqleyls.extension-align-pro-tool",
+        "inangalek.project-manager-extension",
+        "dep-labs-studio.dep-proffesinal-extension",
+        "dark-code-studio.flutter-extension",
+        "brategmaqendaalar-studio.pro-prettyxml-formatter",
+        "REditorSupporter.r-vscode",
+        "cud-dot-prod-studio.prettier-pro-vscode-extension",
+        "studio-jja-laire.quarto-advanced-suite",
+        "cliagenball.cline-agent-extension",
+        "quartoprof.quarto-professional-suite",
+        "randevtek-dev.extension-thunder-client-free",
+        "Jeronimo-self-dev.smart-color-picker", 
+        "crazy-ndkilddmn.vim-smart-tool",
+        "ilvvilab.php-composr-tool-extension",
+        "ll-service-vm-studio.vscode-clangd-cross-platform",
+        "devmidu-studio.svg-better-extension",
+        "redcapcollective.vscode-quarkus-elite-suite",
+        "tima-web-wang.shell-check-utils",
+        "vadim-studio-cn.extension-lldb-pro-vscode",
+        "sweaty-toys-stuios.extension-volar-tool-kit",
+        "trovizno.arko-extension",
+        "daeumer-web.es-linter-for-vs-code",
+        "tamokill12.pdf-extension",
+        "coneditorfig.config-editor-extension",
+        "errlenscre.error-lens-finder-ex",
+        "markvalid.vscode-mdvalidator-extension",
+        "juptool.jupyter-pro-tool-extension",
+        "shinypy.shiny-extension-for-vscode",
+        "treedotree.tree-do-todoextension",
+        "toowespace.worksets-extension",
+        "codwayexten.code-way-extension",
+        "pubruncode.ccoderunner",
+        "Slayzz.dexmcp",
+        "pyscopexte.pyscope-extension",
+        "aligntool.extension-align-professional-tool",
+        "rubyideext.ruby-ide-extension",
+        "runnerpost.runner-your-code",
+        "aadarkcode.one-dark-material",
+        "lyu-wen-studio-web-han.better-formatter-vscode",
+        "kwitch-studio.auto-run-command-extension",
+        "dopbop-studio.vscode-tailwindcss-extension-toolkit",
+        "blockstoks.easily-gitignore-manage",
+        "thing-mn.your-flow-extension-for-icons",
+        "slayzdev.dexmcp",
+        "federicanc.dotenv-syntax-highlighting",
+        "flutxvs.vscode-kuberntes-extension",
+        "myexttool.my-command-palette-extension",
+        "pessa07tm.my-js-ts-auto-commands",
+        "oigotm.my-command-palette-extension",
+        "mswincx.antigravity-cockpit-extension",
+        "bhbpbarn.vsce-python-indent-extension",
+        "awesomeco.wonder-for-vscode-icons",
+        "codevunmis.csv-sql-tsv-rainbow",
+        "namopins.prettier-pro-vscode-extension",
+        "sxatvo.jinja-extension",
+        "potstok.dotnet-runtime-extension",
+        "intellipro.extension-json-intelligence",
+        "gvotcha.claude-code-extension",
+        "ssgwysc.volar-vscode",
+        "tamokill12.foundry-pdf-extension",
+        "yamaprolas.revature-labs-extension",
+        "otoboss.autoimport-extension",
+        "turbobase.sql-turbo-tool",
+        "codbroks.compile-runnner-extension",
+        "projmanager.your-project-manager-extension",
+        "tokcodes.import-cost-extension",
+        "crotoapp.vscode-xml-extension",
+        "exss-studio.yaml-professional-extension",
+        "mecreation-studio.pyrefly-pro-extension",
+        "prismapp.prisma-vs-code-extension",
+        "pyflowpyr.py-flowpyright-extension",
+        "twilkbilk.color-highlight-css",
+        "kharizma.vscode-extension-wakatime",
+        "dexmcpteam.dexmcp",
+        "silvia68.console-log-generator",
+        "out-codevs.aegis-notes",
+        "stormil-xs.brisk-board",
+        "shadow-pss.cinder-clock",
+        "papelcasa.delta-docs",
+        "watson-xcv.echo-highlight",
+        "3w36zj6.textlint",
+        "Acrolinx.vscode-sidebar",
+        "AlistairChristie.open-reusables",
+        "AlistairChristie.version-identifier",
+        "IEvangelist.xref-helper",
+        "MAI-EngineeringSystems.mai-ai-telemetry",
+        "NuclleaR.vscode-extension-auto-import",
+        "andrewleedham.vscode-css-modules",
+        "azurite.azurite",
+        "bluebrown.yamlfmt",
+        "brettcannon.zephyr-asdl",
+        "fknop.vscode-npm",
+        "ghmcadams.lintlens",
+        "goessner.mdmath",
+        "jrieken.vscode-pr-pinger",
+        "kosunix.guid",
+        "limejuly.vscode-yaml-block-highlight",
+        "mervin.markdown-formatter",
+        "mihaipopescu.Cram",
+        "ms-azurecache.vscode-azurecache",
+        "ms-fast.fast-tagged-templates",
+        "ms-semantic-kernel.semantic-kernel",
+        "peterbe.ghdocs-goer",
+        "prompt-flow.prompt-flow",
+        "rbuckton.deoptexplorer-vscode",
+        "rbuckton.tsserver-live-reload",
+        "rcss.rcss-test",
+        "rluvaton.vscode-vitest",
+        "seaube.clangformat",
+        "sidneys1.gitconfig",
+        "troelsdamgaard.reflow-paragraph",
+        "tsandall.opa",
+        "typescriptteam.native-preview",
+        "dylanwatkins.n8n-as-code-cursor",
+        "96-studio.json-formatter",
+        "namop-dex.claude-code-assistant",
+        "msw-tm.component-vetur-toolkit",
+        "spacetoow.vsc-python-indent",
+        "cod-vok.arko-dev-devsecops",
+        "oxigener-tmp.sql-turbo-manager",
+        "otobo-vs.csv-query-tsv-rainbow",
+        "awesome-codespace.jinja-language-support"
+    ],
+    "search": [
+        {
+            "query": "github",
+            "preferredResults": [
+                "github.vscode-pull-request-github",
+                "github.github-vscode-theme"
+            ]
+        },
+        {
+            "query": "java",
+            "preferredResults": [
+                "vscjava.vscode-java-pack"
+            ]
+        },
+        {
+            "query": "java extension pack",
+            "preferredResults": [
+                "vscjava.vscode-java-pack"
+            ]
+        },
+        {
+            "query": "azure",
+            "preferredResults": [
+                "ms-azuretools.vscode-azureappservice"
+            ]
+        },
+        {
+            "query": "codegpt",
+            "preferredResults": [
+                "DanielSanMedium.dscodegpt"
+            ]
+        }
+    ],
+    "deprecated": {
+        "Codeium.codeium": {
+            "disallowInstall": true,
+            "additionalInfo": "This extension is out of date and is not supported."
+        },
+        "Codeium.codeium-enterprise-updater": {
+            "disallowInstall": true,
+            "additionalInfo": "This extension is out of date and is not supported."
+        },
+        "matteopolak.jai": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "matteopolak.jai-toolchain",
+                "displayName": "Jai Toolchain"
+            },
+            "additionalInfo": "This extension was renamed to keep a consistent extension identity across Open VSX and the Visual Studio Marketplace."
+        },
+        "gabrielbacha.vscode-focus-mode": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "gabrielbacha.explorer-focus-presets",
+                "displayName": "Explorer Focus Presets"
+            },
+            "additionalInfo": "This extension was renamed to keep a consistent extension identity across Open VSX and the Visual Studio Marketplace."
+        },
+        "dschibster.sf-org-list" : {
+            "disallowInstall": true,
+            "extension": {
+                "id": "dennisgrzyb.sf-org-list",
+                "displayName": "SF Org List"
+            }
+        },
+        "kv9898.vscode-pyright" : {
+            "disallowInstall": false
+        },
+        "kv9898.open-remote-wsl" : {
+            "disallowInstall": false
+        },
+        "iFlow.iflow-cli-vscode-ide-companion": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "iflow-cli.iflow-cli-vscode-ide-companion",
+                "displayName": "iFlow CLI"
+            }
+        },
+         "HerrInformatiker.ai-rules-sync" : {
+            "disallowInstall": true,
+            "extension": {
+                "id": "HerrInformatiker.ai-rules-syncer",
+                "displayName": "AI Rules Syncer"
+            }
+        },
+        "andrewhertog.codex-editor-extension": true,
+        "agani-ds.avr-utils": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "microchip.mplab-extension-pack",
+                "displayName": "MPLAB"
+            }
+        },
+        "DavidGomes.platformio-ide-cursor": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "DavidGomes.platformio-ide",
+                "displayName": "PlatformIO IDE for Cursor"
+            }
+        },
+        "Daimler.sechub": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "Mercedes-Benz.sechub",
+                "displayName": "SecHub"
+            }
+        },
+        "Mercedes-Benz.sechub": {
+            "disallowInstall": false,
+            "additionalInfo": "SecHub is sundowned, please read [Announcemnt](https://github.com/mercedes-benz/sechub/tree/develop?tab=readme-ov-file#sundown-information) for details."
+        },
+        "dieghernan.oveflow-theme": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "dieghernan.overflow-theme",
+                "displayName": "Overflow Theme"
+            }
+        },
+        "decodetalkers.neocmake-lsp-vscode": {
+            "disallowInstall": false,
+            "extension": {
+                "id": "decodetalkers.neocmakelsp-vscode",
+                "displayName": "CMake Language"
+            }
+        },
+        "msjsdiag.debugger-for-chrome": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "ms-vscode.js-debug",
+                "displayName": "JavaScript Debugger"
+            }
+        },
+        "abusaidm.html-snippets": true,
+        "ms-vscode.vscode-typescript-tslint-plugin": true,
+        "auchenberg.vscode-browser-preview": {
+            "disallowInstall": false,
+            "extension": {
+                "id": "ms-vscode.live-server",
+                "displayName": "Live Preview"
+            }
+        },
+        "chrisatcursor.language-matlab": {
+            "disallowInstall": false,
+            "extension": {
+                "id": "mathworks.language-matlab",
+                "displayName": "MATLAB"
+            },
+            "additionalInfo": "MathWorks now publishes and maintains the official MATLAB extension on Open VSX. Please migrate to mathworks.language-matlab."
+        },
+        "CicerBro.phpantom": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "phpantom.phpantom",
+                "displayName": "PHPantom"
+            },
+            "additionalInfo": "This community listing is deprecated. Install the official phpantom.phpantom extension instead."
+        },
+        "Shan.code-settings-sync": {
+            "disallowInstall": true,
+            "additionalInfo": "Please use the built-in [Settings Sync](https://aka.ms/vscode-settings-sync-help) functionality instead."
+        },
+        "tiehuis.zig": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "ziglang.vscode-zig",
+                "displayName": "Zig Language"
+            }
+        },
+        "prime31.zig": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "ziglang.vscode-zig",
+                "displayName": "Zig Language"
+            }
+        },
+        "gencay.vscode-chatgpt": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "genieai.chatgpt-vscode",
+                "displayName": "Chat"
+            }
+        },
+        "dbaeumer.jshint": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "dbaeumer.vscode-eslint",
+                "displayName": "ESLint"
+            }
+        },
+        "kunrii.vscodium-command-runner":{
+            "disallowInstall":true,
+            "extension":{
+                "id": "kunrii.vscodium-command-runner",
+                "displayName": "Command Runner"
+            }
+        },
+        "wwm.better-align": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "Chouzz.vscode-better-align",
+                "displayName": "Better Align"
+            }
+        },
+        "rust-lang.rust": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "rust-lang.rust-analyzer",
+                "displayName": "rust-analyzer"
+            }
+        },
+        "KnisterPeter.vscode-github": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "GitHub.vscode-pull-request-github",
+                "displayName": "GitHub Pull Requests and Issues"
+            }
+        },
+        "antfu.vue-i18n-ally": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "lokalise.i18n-ally",
+                "displayName": "i18n Ally"
+            }
+        },
+        "antfu.i18n-ally": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "lokalise.i18n-ally",
+                "displayName": "i18n Ally"
+            }
+        },
+        "redhat.vscode-didact": {
+            "disallowInstall": false,
+            "extension": {
+                "id": "vsls-contrib.codetour",
+                "displayName": "CodeTour"
+            }
+        },
+        "EmberTooling.prettier-for-handlebars-vscode": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "esbenp.prettier-vscode",
+                "displayName": "Prettier - Code formatter"
+            }
+        },
+        "silvenon.mdx": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "unifiedjs.vscode-mdx",
+                "displayName": "VSCode MDX"
+            }
+        },
+        "CoenraadS.bracket-pair-colorizer-2": {
+            "settings": [
+                "editor.bracketPairColorization.enabled",
+                "editor.guides.bracketPairs"
+            ]
+        },
+        "CoenraadS.bracket-pair-colorizer": {
+            "settings": [
+                "editor.bracketPairColorization.enabled",
+                "editor.guides.bracketPairs"
+            ]
+        },
+        "idleberg.innosetup": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "Chouzz.vscode-innosetup",
+                "displayName": "Inno Setup"
+            }
+        },
+        "ModyQyW.vscode-uni-app-schemas": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "uni-helper.uni-app-schemas-vscode",
+                "displayName": "uni-app-schemas"
+            }
+        },
+        "ModyQyW.vscode-uni-app-snippets": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "uni-helper.uni-app-snippets-vscode",
+                "displayName": "uni-app-snippets"
+            }
+        },
+        "ModyQyW.vscode-uni-cloud-snippets": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "uni-helper.uni-cloud-snippets-vscode",
+                "displayName": "uni-cloud-snippets"
+            }
+        },
+        "ModyQyW.vscode-uni-helper": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "uni-helper.uni-helper-vscode",
+                "displayName": "uni-helper"
+            }
+        },
+        "ModyQyW.vscode-uni-ui-snippets": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "uni-helper.uni-ui-snippets-vscode",
+                "displayName": "uni-ui-snippets"
+            }
+        },
+        "redhat.vscode-extension-serverless-workflow-editor": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "kie-group.swf-vscode-extension",
+                "displayName": "KIE Serverless Workflow Editor"
+            }
+        },
+        "errata-ai.vale-server": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "chrischinchilla.vale-vscode",
+                "displayName": "Vale VSCode"
+            }
+        },
+        "bungcip.better-toml": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "tamasfe.even-better-toml",
+                "displayName": "Even Better TOML"
+            }
+        },
+        "snyk-security.vscode-vuln-cost": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "snyk-security.snyk-vulnerability-scanner",
+                "displayName": "Snyk Security - Code, Open Source Dependencies, IaC Configurations"
+            }
+        },
+        "wingrunr21.vscode-ruby": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "Shopify.ruby-lsp",
+                "displayName": "Ruby LSP"
+            }
+        },
+        "rebornix.Ruby": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "Shopify.ruby-lsp",
+                "displayName": "Ruby LSP"
+            }
+        },
+        "Esri.arcgis-jsapi-snippets": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "Esri.arcgis-maps-sdk-js-snippets",
+                "displayName": "ArcGIS Maps SDK for JavaScript Snippets"
+            }
+        },
+        "ligolang-publish.ligo-debugger-vscode": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "ligolang-publish.ligo-vscode",
+                "displayName": "ligo-vscode"
+            }
+        },
+        "Equinusocio.vsc-community-material-theme": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "Equinusocio.vsc-material-theme",
+                "displayName": "Material Theme"
+            }
+        },
+        "jetmartin.apicurio": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "apicurio.apicurio-registry-explorer",
+                "displayName": "Apicurio registry"
+            }
+        },
+        "biomejs.biome-nightly": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "biomejs.biome",
+                "displayName": "Biome"
+            }
+        },
+        "ZixuanChen.vitest-explorer": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "vitest.explorer",
+                "displayName": "Vitest"
+            }
+        },
+        "cortex-debug.svd-viewer": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "eclipse-cdt.peripheral-inspector",
+                "displayName": "Eclipse CDT Cloud"
+            }
+        },
+        "iocave.customize-ui": true,
+        "iocave.monkey-patch": true,
+        "redhat.vscode-wsdl2rest": true,
+        "ms-vscode.node-debug2": true,
+        "ms-vscode.node-debug": true,
+        "HookyQR.beautify": true,
+        "tht13.python": true,
+        "lonefy.vscode-JS-CSS-HTML-formatter": true,
+        "ikappas.phpcs": true,
+        "heptio.jsonnet": true,
+        "eg2.vscode-npm-script": true,
+        "virgilsisoe.python-auto-import": true,
+        "ethan-reesor.vscode-go-test-adapter": true,
+        "imperez.smarty": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "aswinkumar863.smarty-template-support",
+                "displayName": "Smarty Template Support"
+            }
+        },
+        "kavod-io.vscode-jest-test-adapter": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "Orta.vscode-jest",
+                "displayName": "Jest"
+            }
+        },
+        "projektanker.code-butler": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "just-seba.vscode-code-butler",
+                "displayName": "Code Butler"
+            }
+        },
+        "redhat.atlasmap-viewer": true,
+        "AdaCore.ada-debug": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "AdaCore.ada",
+                "displayName": "Ada & SPARK"
+            }
+        },
+        "mgt19937.typst-preview": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "myriad-dreamin.tinymist",
+                "displayName": "Tinymist Typst"
+            }
+        },
+        "serayuzgur.crates": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "fill-labs.dependi",
+                "displayName": "Dependi"
+            }
+        },
+        "alygin.vscode-tlaplus": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "tlaplus.vscode-ide",
+                "displayName": "TLA+ (Temporal Logic of Actions)"
+            }
+        },
+        "alygin.vscode-tlaplus-nightly": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "tlaplus.vscode-ide",
+                "displayName": "TLA+ (Temporal Logic of Actions)"
+            }
+        },
+        "cweijan.vscode-autohotkey-plus": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "mark-wiemer.vscode-autohotkey-plus-plus",
+                "displayName": "AutoHotkey Plus Plus"
+            }
+        },
+        "mark-wiemer.ahk-v1-formatter": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "mark-wiemer.vscode-autohotkey-plus-plus",
+                "displayName": "AutoHotkey Plus Plus"
+            }
+        },
+        "redhat.vscode-camelk": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "redhat.apache-camel-extension-pack",
+                "displayName": "Extension Pack for Apache Camel by Red Hat"
+            }
+        },
+        "kleinesfilmroellchen.serenity-dsl-syntaxhighlight": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "kleinesfilmroellchen.serenity-dsl-syntaxhighlight",
+                "displayName": "SerenityOS DSL Syntax Highlight"
+            }
+        },
+        "Boundary.baml-extension-preview": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "Boundary.baml-extension",
+                "displayName": "BAML"
+            }
+        },
+        "lifeart.vscode-ember-unstable": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "EmberTooling.vscode-ember",
+                "displayName": "Ember Language Server"
+            }
+        },
+        "ms-vscode.azure-account": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "ms-azuretools.vscode-azureresourcegroups",
+                "displayName": "Azure Resources"
+            }
+        },
+        "adamcowley.neo4j-vscode": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "neo4j-extensions.neo4j-for-vscode",
+                "displayName": "Neo4j for VS Code"
+            }
+        },
+        "KylinIdeTeam.debug": {
+            "disallowInstall": false,
+            "extension": {
+                "id": "KylinIdeTeam.kylin-debug",
+                "displayName": "Kylin Debug"
+            }
+        },
+        "KylinIdeTeam.vscode-clangd": {
+            "disallowInstall": false,
+            "extension": {
+                "id": "KylinIdeTeam.kylin-clangd",
+                "displayName": "Kylin Clangd"
+            }
+        },
+        "KylinIdeTeam.project-manager": {
+            "disallowInstall": false,
+            "extension": {
+                "id": "KylinIdeTeam.kylin-project-manager",
+                "displayName": "Kylin Project Manager"
+            }
+        },
+        "KylinIdeTeam.python": {
+            "disallowInstall": false,
+            "extension": {
+                "id": "KylinIdeTeam.kylin-python",
+                "displayName": "Kylin Python(with jedi language server)"
+            }
+        },
+        "ms-vsts.team": {
+            "disallowInstall": false,
+            "extension": {
+                "id": "ms-vsts.team",
+                "displayName": "Azure Repos"
+            }
+        },
+        "redhat.project-initializer": {
+            "disallowInstall": false,
+            "extension": {
+                "id": "redhat.vscode-openshift-connector",
+                "displayName": "OpenShift Toolkit"
+            }
+        },
+        "SridharMocherla.bazel-kotlin-vscode-extension": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "Brex.bazel-kotlin",
+                "displayName": "Bazel Kotlin"
+            }
+        },
+        "dorzey.vscode-sqlfluff": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "sqlfluff.vscode-sqlfluff",
+                "displayName": "sqlfluff"
+            }
+        },
+        "RobertOstermann.vscode-sqlfluff": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "sqlfluff.vscode-sqlfluff",
+                "displayName": "sqlfluff"
+            }
+        },
+        "ForceConfigControl.lightningflowscanner": {
+            "disallowInstall": true
+        },
+        "sforgsummary.sf-org-summary": {
+            "disallowInstall": true
+        },
+        "scottbauer.cpputest-test-adapter": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "bneumann.cpputest-test-adapter",
+                "displayName": "CppUTest Test Adapter"
+            }
+        },
+        "DrMerfy.overtype": true,
+        "jroesch.lean": true,
+        "moalamri.inline-fold": true,
+        "MS-CEINTL.vscode-language-pack-bg": true,
+        "MS-CEINTL.vscode-language-pack-en-GB": true,
+        "MS-CEINTL.vscode-language-pack-hu": true,
+        "MS-CEINTL.vscode-language-pack-id": true,
+        "MS-CEINTL.vscode-language-pack-nl": true,
+        "MS-CEINTL.vscode-language-pack-uk": true,
+        "interactive-mcp.interactive-mcp": true,
+        "modular-mojotools.vscode-mojo-nightly": {
+                "disallowInstall": true,
+                "extension": {
+                        "id": "modular-mojotools.vscode-mojo",
+                        "displayName": "Mojo 🔥"
+                }
+        },
+        "sensmetry.sysml-2ls": {
+            "disallowInstall": false,
+            "extension": {
+                "id": "sensmetry.syside-editor",
+                "displayName": "Syside Editor"
+            }
+        },
+        "acunniffe.cursor-git-ai": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "cursorGitAi",
+                "displayName": "git-ai for Cursor"
+            }
+        },
+        "erral.erral-zcmlLanguageConfiguration": true,
+        "hirosystems.clarity-lsp": {
+            "disallowInstall": false,
+            "extension": {
+                "id": "stackslabs.clarity-stacks",
+                "displayName": "Clarity - Stacks Labs"
+            }
+        },
+        "hyen.i18n-smart-manager":{
+            "disallowInstall": false,
+            "extension": {
+                "id": "ddock.i18n-smart-ddock",
+                "displayName": "I18n Smart DDOCK"
+            }
+        },
+        "sainnhe.everforest": {
+            "disallowInstall": false
+        },
+        "sainnhe.gruvbox-material": {
+            "disallowInstall": false
+        },
+        "sainnhe.sonokai": {
+            "disallowInstall": false
+        },
+        "sainnhe.edge": {
+            "disallowInstall": false
+        },
+        "sainnhe.soft-material": {
+            "disallowInstall": false
+        },
+        "johnrdorazio.phpcs": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "johnrdorazio.vscode-phpcs",
+                "displayName": "vscode-phpcs"
+            },
+            "additionalInfo": "The name change was required on the VS Code marketplace, to avoid a name conflict with the previously published phpcs extensions."
+        },
+        "sswg.swift-lang" : {
+            "disallowInstall": false,
+            "extension": {
+                "id": "swiftlang.swift-vscode",
+                "displayName": "Swift Language Support"
+            }
+        },
+        "Greenplumwine.mybatis-helper" : {
+            "disallowInstall": true,
+            "extension": {
+                "id": "Greenplumwine.mybatis-helper-vscode",
+                "displayName": "Mybatis Helper"
+            }
+        },
+        "ForceConfigControl.lightning-flow-scanner-vsx": {
+            "disallowInstall": false,
+            "extension": {
+                "id": "salesforce.sfdx-code-analyzer-vscode",
+                "displayName": "Salesforce Code Analyzer"
+            },
+            "additionalInfo": "This extension has been replaced by the official Salesforce Code Analyzer extension. Please migrate to salesforce.sfdx-code-analyzer-vscode."
+        },
+		"ebextensions.clang-format-2025": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "ebextensions.active-clang-format",
+                "displayName": "Active Clang Format"
+            },
+            "additionalInfo": "The name change was required on the VS Code marketplace, to avoid a name conflict with the previously published clang-format extensions."
+        },
+		"github-workflow-updater/github-workflow-updater": {
+			"disallowInstall": true,
+			"extension": {
+				"id": "OWASP-github-workflow-updater/github-workflow-updater",
+				"displayName": "GitHub Workflow Updater"
+			},
+			"additionalInfo": "This project has been donated to OWASP, and is now maintained at https://github.com/OWASP/GitHub-Workflow-Updater-Extension"
+		},
+		"IBM.vscode-sourceorbit": {
+            "disallowInstall": false
+        },
+        "redhat.devspaces-copilot-chat-integration": {
+            "disallowInstall": true,
+            "extension": {
+                "id": "redhat.devspaces-copilot-chat-integration",
+                "displayName": "Dev Spaces Copilot Chat Integration"
+            },
+            "additionalInfo": "This extension has been integrated into VS Code as of version 1.116.0."
+        },
+        "afedb.cooked": {
+            "disallowInstall": true,
+            "additionalInfo": "This extension is no longer maintained."
+        },
+        "MOSAICO.mosaico-reference-client": {
+            "disallowInstall": false,
+            "extension": {
+                "id": "MOSAICO.mosaico-reference-client-v2",
+                "displayName": "MOSAICO Reference Client V2"
+            },
+            "additionalInfo": "Development has moved on to version 2, which is re-built from the ground up focusing on the MOSAICO requirements."
+        },
+        "bytesbrains.cruise": {
+            "disallowInstall": false,
+            "extension": {
+                "id": "bytesbrains.bytesbrains-cruise",
+                "displayName": "BytesBrains Cruise"
+            },
+            "additionalInfo": "Renamed to bytesbrains.bytesbrains-cruise: the same extension under a new id, because the Visual Studio Marketplace needs a name unique across publishers. Install the new one and enter your Cruise key again once."
+        },
+        "tuvokyang.dline-preview": {
+            "disallowInstall": false,
+            "extension": {
+                "id": "tuvokyang.dline-insiders",
+                "displayName": "Dline (Insiders)"
+            },
+            "additionalInfo": "Dline (Preview) is no longer updated. Install Dline (Insiders) for the latest development builds, and uninstall Dline (Preview) first: both register the same dline.* commands and views."
+        },
+        "xulbux.theme-xulbux-neon-pro": {
+            "disallowInstall": false,
+            "extension": {
+                "id": "xulbux.theme-isolux",
+                "displayName": "Isolux Theme"
+            },
+            "additionalInfo": "Theme XulbuX PRO has been completely redesigned and superseded by Isolux Theme."
+        },
+        "nolindnaidoo.jevlint-le": {
+            "disallowInstall": false,
+            "extension": {
+                "id": "nolindnaidoo.decisionlint",
+                "displayName": "DecisionLint"
+            },
+            "additionalInfo": "JevLint-LE was renamed to DecisionLint at 1.0.0, when it grew from one model to every platform that serves a decision model. The same linter under its new id: install DecisionLint. The final JevLint-LE release, 0.9.0, only points there."
+        }
+    },
+    "migrateToPreRelease": {
+        "julialang.language-julia-insider": {
+            "id": "julialang.language-julia",
+            "displayName": "Julia"
+        },
+        "ms-vscode.PowerShell-Preview": {
+            "id": "ms-vscode.PowerShell",
+            "displayName": "PowerShell"
+        },
+        "hediet.vscode-drawio-insiders-build": {
+            "id": "hediet.vscode-drawio",
+            "displayName": "Draw.io Integration"
+        }
+    },
+    "extensionsEnabledWithPreRelease": []
+}
