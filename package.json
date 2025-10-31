@@ -42,7 +42,7 @@
     "find-up": "^5.0.0",
     "human-number": "^2.0.0",
     "jest-diff": "^30.2.0",
-    "limiter": "^3.0.0",
+    "limiter": "^4.1.0",
     "minimist": "^1.2.5",
     "octokit": "^5.0.5",
     "ovsx": "latest",
